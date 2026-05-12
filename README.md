@@ -5,12 +5,13 @@ A curated collection of tested open-source projects for humanoid and legged robo
 We built a custom humanoid/legged robot platform and explored the following frameworks and toolkits for simulation, deployment, and optimization.
 The ratings below reflect our hands-on experience with custom robot integration and real-world deployment.
 
-RL walking
+## RL Walking Frameworks
 legged/gym, humanod gym, unitree gym, engeai gym etc... (Similar, build on legged gym)
 ⭐⭐⭐
-https://github.com/unitreerobotics/unitree_rl_gym
-https://github.com/roboterax/humanoid-gym
-https://github.com/engineai-robotics/engineai_legged_gym
+    
+    https://github.com/unitreerobotics/unitree_rl_gym
+    https://github.com/roboterax/humanoid-gym
+    https://github.com/engineai-robotics/engineai_legged_gym
 
 MujocoPlayground (tested, not friendly to a custom robot)
 ⭐
@@ -21,7 +22,7 @@ Holosoma  (Success deploy on a custom robot,can walk)
 https://github.com/amazon-far/holosoma
 
 
-AMP/Deepmimic/Beyondmimic
+## AMP / DeepMimic / Motion Imitation
 
 Mimickit (simulation only)
 ⭐⭐
@@ -40,7 +41,7 @@ EngineAi AMP
 https://github.com/engineai-robotics/engineai_amp
 
 
-Other Toolkit
+## Robotics Toolkits
 
 Pinocchio(FK,IK)
 ⭐⭐⭐⭐
@@ -54,7 +55,7 @@ GMR, motion retargeting (support any humanoid, tested on custom robot)
 ⭐⭐⭐⭐⭐
 https://github.com/YanjieZe/GMR
 
-Notes
+## Notes
 Ratings are based on our practical experience with:
 Custom humanoid robot integration
 Sim-to-sim deployment
