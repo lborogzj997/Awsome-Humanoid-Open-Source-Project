@@ -2,9 +2,6 @@
 
 A curated collection of tested open-source projects for humanoid and legged robots. This repository focuses on **practical deployment** and **engineering experience**, covering simulation, reinforcement learning, motion imitation, sim-to-real, and control optimization.
 
-> [!NOTE]
-> We built a custom humanoid/legged robot platform and evaluated these frameworks based on hands-on integration. The ratings reflect our real-world deployment experience.
-
 ---
 
 ## 📑 Table of Contents
