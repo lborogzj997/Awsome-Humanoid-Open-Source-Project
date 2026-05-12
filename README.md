@@ -57,7 +57,7 @@ A curated collection of tested open-source projects for humanoid and legged robo
   * **Purpose:** High-performance Rigid Body Dynamics (FK, IK, etc.).
   * **Verdict:** Industry standard for analytical control.
 * **[Pace-Sim2real](https://github.com/leggedrobotics/pace-sim2real)** ⭐⭐⭐⭐
-  * **Purpose:** Actuator identification and system ID.
+  * **Purpose:** Actuator parameter identification.
   * **Verdict:** Essential for closing the gap between sim and real actuators.
 
 ---
