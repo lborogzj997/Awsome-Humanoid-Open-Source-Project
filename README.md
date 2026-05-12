@@ -29,7 +29,7 @@ A curated collection of tested open-source projects for humanoid and legged robo
 * **[Holosoma](https://github.com/amazon-far/holosoma)** ⭐⭐⭐⭐⭐
   * **Status:** Successfully deployed on custom hardware.
   * **Pros:** Excellent sim-to-real performance; robot can walk stably.
-* **[MujocoPlayground](https://github.com/google-deepmind/mujoco_playground)** ⭐
+* **[MujocoPlayground](https://github.com/google-deepmind/mujoco_playground)** ⭐⭐
   * **Status:** Tested.
   * **Cons:** Not friendly for custom robot, bad trainning performance.
 
@@ -40,11 +40,11 @@ A curated collection of tested open-source projects for humanoid and legged robo
 * **[Legged_Lab Extension](https://github.com/zitongbai/legged_lab)** ⭐⭐⭐⭐
   * **Features:** Supports Sim2Sim and Sim2Real (highly extendable).
   * **Verdict:** Good balance between simulation and real-world potential.
-* **[MimicKit](https://github.com/xbpeng/MimicKit)** ⭐⭐
+* **[MimicKit](https://github.com/xbpeng/MimicKit)** ⭐⭐⭐
   * **Verdict:** Simulation only; lacks direct deployment pipelines.
-* **[BeyondMimic](https://github.com/HybridRobotics/whole_body_tracking)** ⭐⭐
+* **[BeyondMimic](https://github.com/HybridRobotics/whole_body_tracking)** (under test)
   * **Features:** Whole-body tracking in simulation.
-* **[EngineAi AMP](https://github.com/engineai-robotics/engineai_amp)** ⭐⭐
+* **[EngineAi AMP](https://github.com/engineai-robotics/engineai_amp)** (under test)
   * **Features:** Adversarial Motion Priors implementation.
 
 ---
@@ -57,7 +57,7 @@ A curated collection of tested open-source projects for humanoid and legged robo
 * **[Pinocchio](https://github.com/stack-of-tasks/pinocchio)** ⭐⭐⭐⭐
   * **Purpose:** High-performance Rigid Body Dynamics (FK, IK, etc.).
   * **Verdict:** Industry standard for analytical control.
-* **[Pace-Sim2real](https://github.com/leggedrobotics/pace-sim2real)** ⭐⭐⭐
+* **[Pace-Sim2real](https://github.com/leggedrobotics/pace-sim2real)** ⭐⭐⭐⭐
   * **Purpose:** Actuator identification and system ID.
   * **Verdict:** Essential for closing the gap between sim and real actuators.
 
