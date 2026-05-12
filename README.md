@@ -6,12 +6,11 @@ We built a custom humanoid/legged robot platform and explored the following fram
 The ratings below reflect our hands-on experience with custom robot integration and real-world deployment.
 
 ## RL Walking Frameworks
-legged/gym, humanod gym, unitree gym, engeai gym etc... (Similar, build on legged gym)
+legged/gym, humanod gym, unitree gym, engeai gym etc... (Similar, build on legged gym)--
 ⭐⭐⭐
-    
-    https://github.com/unitreerobotics/unitree_rl_gym
-    https://github.com/roboterax/humanoid-gym
-    https://github.com/engineai-robotics/engineai_legged_gym
+https://github.com/unitreerobotics/unitree_rl_gym
+https://github.com/roboterax/humanoid-gym
+https://github.com/engineai-robotics/engineai_legged_gym
 
 MujocoPlayground (tested, not friendly to a custom robot)
 ⭐
