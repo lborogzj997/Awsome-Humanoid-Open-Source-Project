@@ -44,7 +44,9 @@ A curated collection of tested open-source projects for humanoid and legged robo
 * **[EngineAi AMP](https://github.com/engineai-robotics/engineai_amp)** (under test)
   * **Features:** Adversarial Motion Priors implementation.
 * **[AMP_for_hardware](https://github.com/escontra/AMP_for_hardware)** (under test)
-  * **Features:** Classical Adversarial Motion Priors implementation. 
+  * **Features:** Classical Adversarial Motion Priors implementation.
+* **[Mujocolab](https://github.com/mujocolab/mjlab)** (under test)
+  * **Features:** Combines Isaac Lab's manager-based API with MuJoCo Warp. 
 
 ---
 
